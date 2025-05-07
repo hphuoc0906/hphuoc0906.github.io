@@ -10,7 +10,7 @@ redirect_from:
 
 🧑‍🎓 I am a 3rd year undergraduate student in University of Information Technology - VNUHCM.
 
-👩🏻‍💻 Currently, I am studying about AI and my major is *** Computer Science ***. My interesting field is Multimodal Learning, Retrieval Information, Computer Vision and Natural Language Processing.
+👩🏻‍💻 Currently, I am studying about AI and my major is ***Computer Science***. My interesting field is Multimodal Learning, Retrieval Information, Computer Vision and Natural Language Processing.
 
 🤝 I also love assist and exchange people who have same hobby and interesting field. I can learn more from exchange knowledge with your idea, so don't be hesitate to comment in my blog.
 
