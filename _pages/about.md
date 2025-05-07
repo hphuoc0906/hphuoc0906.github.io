@@ -7,6 +7,7 @@ redirect_from:
   - /about.html
 ---
 ##👋 Hi, I'm Phuoc.
+
 🧑‍🎓 I am a 3rd year undergraduate student in University of Information Technology - VNUHCM.
 
 👩🏻‍💻 Currently, I am studying about AI and my major is *** Computer Science ***. My interesting field is Multimodal Learning, Retrieval Information, Computer Vision and Natural Language Processing.
